@@ -1,0 +1,12 @@
+0 a 1 X R
+0 b 0 b R
+0 c 0 c R
+1 a 2 a L
+1 b 3 b L
+1 c 4 c L
+2 X 5 a R
+3 X 5 b R
+4 X 5 c R
+5 a 1 X R
+5 b 1 X R
+5 c 1 X R

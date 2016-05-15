@@ -1,0 +1,8 @@
+0 a 1 a R
+0 b 1 b R
+1 a 2 X R
+1 b 2 X R
+2 a 3 a L
+2 b 4 b L
+3 X 1 a R
+4 X 1 b R
